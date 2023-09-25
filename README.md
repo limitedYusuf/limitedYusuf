@@ -36,3 +36,8 @@ const stalking = {
 <em><b>Saya suka kalian :v</b> jika kamu butuh sesuatu, <b>jangan sungkan untuk kontak</b></em> 😊
 
 <p><em>Personal web <a href="#">yusufunlimited.my.id</a>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=limitedYusuf&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width=44% height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limitedYusuf&layout=compact" height=180 />
+</p>
