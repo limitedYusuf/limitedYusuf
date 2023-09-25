@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/limitedYusuf?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=#)](#)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sedikit tentang saya...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sedikit informasi tentang saya...  
 
 ```javascript
 const stalking = {
