@@ -12,7 +12,7 @@
 ```javascript
 const stalking = {
 	pronouns: "Pria" | "Laki-laki",
-	code: ["Javascript", "Typescript", "Python", "PHP", "Python"],
+	code: ["Javascript", "Typescript", "Python", "PHP", "Brainf*ck"],
 	askMeAbout: [
 		"web development",
 		"business logic",
