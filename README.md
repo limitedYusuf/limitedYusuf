@@ -23,7 +23,7 @@ const stalking = {
 	technologies: {
 		backEnd: {
 			php: ["Laravel", "Codeigniter"],
-			js: ["node", "express"],
+			js: ["Node", "Express"],
 			python: ["django", "fastAPI"],
 		},
 		frontEnd: {
@@ -54,6 +54,6 @@ const stalking = {
 </div>
 
 <p>Trims, materi DLC BPVP sudah memaksa saya membuat akun github ini, h3h3h3 jadi terekspos kode pemula saya :( </p>
-<em><b>Saya suka kalian :v</b> jika kamu butuh sesuatu, <b>jangan sungkan untuk kontak</b></em> 😊
+<em><b>Bon... Appetittooo....</b></em> 😊
 
 <p><em>Personal web <a href="https://profilyusuf.vercel.app">profilyusuf.vercel.app</a>
