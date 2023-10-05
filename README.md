@@ -29,6 +29,7 @@ const stalking = {
 		frontEnd: {
 			js: ["Vue", "Nuxt"],
 		},
+		primaryUsage: ["HTML5", "CSS3"],
 		styling: ["Bootstrap 5", "Tailwind 3", "Material UI"],
 		devOps: ["Docker"],
 		databases: ["mongo", "MySql", "postgreSQL", "redis"],
