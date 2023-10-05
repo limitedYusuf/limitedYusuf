@@ -13,6 +13,7 @@
 const stalking = {
 	pronouns: "Pria" | "Laki-laki",
 	code: ["Javascript", "Typescript", "Python", "PHP", "Brainf*ck"],
+	status: "Serabutan",
 	askMeAbout: [
 		"web development",
 		"business logic",
