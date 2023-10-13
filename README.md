@@ -1,6 +1,6 @@
 <h2>Hola, I'm Yusuf!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>"Masih" Web Developer</em> & Mahasiswa Aktif di sebuah kampus tersembunyi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p><em>"Masih" Web Developer Pemula</em> & Mahasiswa Aktif di sebuah kampus tersembunyi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/limitedYusuf?label=Follow)
 [![Linkedin: Yusuf](https://img.shields.io/badge/-Muhammad%20Yusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
@@ -42,6 +42,6 @@ const stalking = {
 ```
 
 <p>Trims, materi DLC BPVP sudah memaksa saya membuat akun github ini, h3h3h3 jadi terekspos kode pemula saya :( </p>
-<em><b>Bon... Appetittooo....</b></em> 😊
+<em><b>Bon... Appetittooo....</b></em>
 
 <p><em>Personal web <a href="https://profilyusuf.vercel.app">profilyusuf.vercel.app</a>
