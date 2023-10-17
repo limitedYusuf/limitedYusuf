@@ -18,7 +18,7 @@ const stalking = {
 		"web development",
 		"business logic",
 		"setup server",
-		"tutorial",
+		"tutorial & sharing",
 		"source code",
 	],
 	technologies: {
