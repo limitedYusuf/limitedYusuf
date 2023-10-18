@@ -36,7 +36,7 @@ const stalking = {
 		databases: ["mongo", "MySql", "postgreSQL", "redis"],
 	},
 	architecture: ["MPA", "SPA", "PWA"],
-	currentFocus: "belajar saja",
+	currentFocus: "belajar saja menambah insight",
 	businessApplicationArea: "CRUD",
 };
 ```
