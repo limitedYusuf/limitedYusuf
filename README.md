@@ -12,7 +12,7 @@
 ```javascript
 const stalking = {
 	pronouns: "Pria" | "Laki-laki",
-	code: ["Javascript", "Typescript", "Python", "PHP", "Brainf*ck"],
+	code: ["Javascript", "Java", "Python", "PHP", "Brainf*ck"],
 	status: "Serabutan IT & Intern",
 	askMeAbout: [
 		"web development",
@@ -28,12 +28,12 @@ const stalking = {
 			python: ["django", "fastAPI"],
 		},
 		frontEnd: {
-			js: ["Vue", "Nuxt"],
+			js: ["Vue", "jQuery"],
 		},
 		primaryUsage: ["HTML5", "CSS3"],
-		styling: ["Bootstrap 5", "Tailwind 3", "Material UI"],
+		styling: ["Bootstrap 5", "Bulma", "Material UI"],
 		devOps: ["Docker"],
-		databases: ["mongo", "MySql", "postgreSQL", "redis"],
+		databases: ["SQLite", "MySQL", "postgreSQL", "redis"],
 	},
 	architecture: ["MPA", "SPA", "PWA"],
 	currentFocus: "belajar saja menambah insight",
