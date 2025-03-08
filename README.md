@@ -9,6 +9,6 @@
 <br>
 
 <p>Trims, materi DLC BPVP sudah memaksa saya mengaktifkan akun github ini, h3h3h3 jadi terekspos kode pemula saya :( </p>
-<em><b>Bon... Appetittooo....</b></em>
+<em><b>Nasi Goreng</b></em>
 
 <p><em>Personal web <a href="https://profilyusuf.vercel.app" target="_blank">profilyusuf.vercel.app</a>
