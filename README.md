@@ -24,7 +24,7 @@ Mungkin saya di sini gara-gara DLC BPVP (makasih sudah memaksa aktifkan akun ini
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=limitedYusuf&show_icons=true&theme=dark&locale=id" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=limitedYusuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=id&hide_border=false&order=1" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=limitedYusuf&theme=dark" alt="GitHub Streak" />
